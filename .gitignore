@@ -1,0 +1,8 @@
+# Ignore folders with data and images
+
+trainingdata/
+testset/
+
+# Ignore checkpoints
+
+.ipynb_checkpoints
