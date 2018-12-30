@@ -1,5 +1,9 @@
 # vision-artificial-UB
 
+Data folders testset and trainingdata are missing. 
+Download from https://campusvirtual2.ub.edu/mod/resource/view.php?id=3923460 and put in the project folder
+They will be ignored
+
 When working on this practicum in UB's computers, make sure you are using **Windows**, where the latest libraries have been installed.
 
 All the exercises must be run using **Jupyter notebook**, in order to run it you must follow these steps:
